@@ -26,7 +26,7 @@ The mask, as standard, has a venting valve in the front, which makes breathing e
 
 Once the CV-19 Guardian Respirator Adaptor is inserted into the compatible snorkel mask, a filter insert cut from a commonly available material that effectively captures airborne particles is placed on the sealing surface of the adaptor and secured in place using a compatible lid.  The attached PDF file provides instructions for properly making and using filter inserts, along with URL links for commonly available materials that provide effective protection against airborne particles.  One example material with good breathability and >99% filtration efficiency of airborne particles of interest is two layers of [ADO Pro Pac fabric](https://www.homedepot.com/p/ADO-Products-10-2-ft-x-375-ft-Pro-Pac-Insulation-Fabric-ICPP122/302709283), which is commonly used to capture particulate from blown insulation.
 
-![Filter Insert](Photos/(8).jpg)
+![Filter Insert](Photos/(8).JPG)
 
 DEI has tested the efficacy of commonly available materials that can be used to make filter inserts.  The results of this testing are presented in the attached PDF file.  A number of commonly available materials were found to capture >99% of airborne particles of interest with good breathability.  When paired with a suitably tight fitting mask, filter inserts made from these materials provide a level of protection equivalent to or exceeding that of N95 masks (>95% capture including leakage).  In DEI’s testing, the DIVELUX mask fitted with a CV-19 Guardian Respirator Adaptor made from such filter inserts met the filtration performance requirements for a N95 respirator under typical fit testing activities (talking, moving head, bending over, etc.).
 
