@@ -1,5 +1,5 @@
 
-# Project
+# Description
 
 In response to shortages in NIOSH-approved PPE during the COVID-19 crisis, many individuals including healthcare professionals and first responders are turning to improvised masks for protection. To help provide for more controlled protection under these circumstances, Dominion Engineering, Inc. (DEI) has developed a custom adaptor that, along with commonly available materials, can be used to convert a standard snorkel mask into a reusable, full face respirator that effectively protects the eyes, nose and mouth from airborne particles.  We have coordinated independent testing to confirm that these converted masks pass a standard mask fit test and to assess the efficacy of commonly available filter insert materials.
 
