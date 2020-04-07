@@ -28,8 +28,6 @@ Once the CV-19 Guardian Respirator Adaptor is inserted into the compatible snork
 
 ![Filter Insert](Photos/(8).JPG)
 
-DEI has tested the efficacy of commonly available materials that can be used to make filter inserts.  The results of this testing are presented in the attached PDF file.  A number of commonly available materials were found to capture >99% of airborne particles of interest with good breathability.  When paired with a suitably tight fitting mask, filter inserts made from these materials provide a level of protection equivalent to or exceeding that of N95 masks (>95% capture including leakage).  In DEI’s testing, the DIVELUX mask fitted with a CV-19 Guardian Respirator Adaptor made from such filter inserts met the filtration performance requirements for a N95 respirator under typical fit testing activities (talking, moving head, bending over, etc.).
-
 ## Wide Mouth Lid
 
 For maximum compatibility and ease of use for the general public, the diameter and threading of the CV-19 Guardian Respirator Adaptor is the same as that of a wide mouth mason jar.  Any standard wide mouth mason jar lid ring (for canning) will fit the adaptor and function as intended (see photos).  Compatible lids with sprouting or straining inserts provide good structural protection for the filter insert.  One example lid of this type is the 
