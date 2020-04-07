@@ -5,6 +5,8 @@ In response to shortages in NIOSH-approved PPE during the COVID-19 crisis, many 
 
 To assist individuals who may lack access to approved PPE such as N95 respirators and face shields, DEI is publishing the CV-19 Guardian Respirator Adaptor design here, along with instructions for making a converted mask using this adaptor.  For additional technical information, including filter efficacy testing results for commonly available materials that can be used to make filter inserts for this adaptor, refer to the attached PDF file.
 
+![Mask with Adapter](Photos/(1).jpg)
+
 **Disclaimer**: _Improvised devices of the type discussed herein are not NIOSH-approved and the user bears all liability associated with the use of such devices.  DEI is making this information available as a public service, but does not make any warranty, expressed or implied, that the use of the device described herein will protect a party from COVID-19 or any other airborne viruses._
 
 **To assemble a converted respirator mask, you will need the following:**
@@ -24,6 +26,8 @@ The mask, as standard, has a venting valve in the front, which makes breathing e
 
 Once the CV-19 Guardian Respirator Adaptor is inserted into the compatible snorkel mask, a filter insert cut from a commonly available material that effectively captures airborne particles is placed on the sealing surface of the adaptor and secured in place using a compatible lid.  It is recommended that the filter insert be cut to slightly overlap the diameter of the adaptor so that it is secured in the threads between the lid and adaptor.
 
+![Filter Insert](Photos/(8).jpg)
+
 DEI has tested the efficacy of commonly available materials that can be used to make filter inserts.  The results of this testing are presented in the attached PDF file.  A number of commonly available materials were found to capture >99% of airborne particles of interest with good breathability.  When paired with a suitably tight fitting mask, filter inserts made from these materials provide a level of protection equivalent to or exceeding that of N95 masks (>95% capture including leakage).  In DEI’s testing, the DIVELUX mask fitted with a CV-19 Guardian Respirator Adaptor made from such filter inserts met the filtration performance requirements for a N95 respirator under typical fit testing activities (talking, moving head, bending over, etc.).   One example material with good breathability and >99% filtration efficiency is two layers of [ADO Pro Pac fabric](https://www.homedepot.com/p/ADO-Products-10-2-ft-x-375-ft-Pro-Pac-Insulation-Fabric-ICPP122/302709283), which is commonly used to capture particulate from blown insulation .
 
 ## Wide Mouth Lid
@@ -35,7 +39,7 @@ It is not recommended to cut a hole in a single-piece mason jar lid as the sharp
 
 ## Details
 
-For additional technical details, refer to the attached photos and PDF file.
+For additional technical details, refer to the Photos and PDF file.
 
 ## 3D Print settings
 
@@ -45,6 +49,8 @@ For additional technical details, refer to the attached photos and PDF file.
 * Resolution: 0.2 mm
 * Infill: 20%
 * Filament: Hatchbox PLA, White
+
+![Adapter](Photos/(5).jpg)
 
 ## Material of construction and finishing options
 
